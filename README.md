@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tattoo-on-heart/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tattoo On Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tattoo-on-heart/) |
+| **Get License** | [Music Rights & Licensing for Tattoo On Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tattoo-on-heart/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1772)
 
 ---
 
