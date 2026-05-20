@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tattoo-on-heart/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Tattoo On Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tattoo-on-heart/) |
+| **Get License** | [Request Licensing for Tattoo On Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tattoo-on-heart/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Naina di iss khumari ch dubb jaan de, wild all night
+> Tere roop da jaadu chal gaya, out of sight
+> Husan tera karda ae nasha, breaking every rule
+> Tainu vekh ke mera dil rukda, losing my cool
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
